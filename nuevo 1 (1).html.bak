@@ -1,0 +1,78 @@
+<html>
+	<head>
+		<title>COCACOLA-CONTENIDO</title>
+		<link rel="shortcut icon" href="logo.png"
+	</head>
+	<body background=FONDOCOCA.jpg>
+		<img src=cocacola.jpg width="150" height="100">
+		<h1 align="center"><font color="#FF5733" size="5" face="arial">
+			Contacto
+			</font>
+		</h1>
+		<hr>
+		
+		<br>
+		<br>
+		<center>
+			<form>
+				<table border="1">
+					<tr>
+						<th>
+						<label>Nombre:</label>
+							<input type="text" size="50" name="nombre" id="nombre"></input>
+						</th>
+					</th>
+					<tr>
+						<tr>
+						<label>Asunto:</label>
+							<input type="text" size="20" name="asunto" id="asunto"></input>
+						</th>
+					</tr>
+					<tr>
+						<th>
+						<label>Correo:</label>
+							<input type="text" size="50" name="correo" id="correo"></input>
+						</th>
+					</tr>
+					<tr>
+						<th>
+							<textarea rows="10" cols="30" name="mensaje" id="mensaje">
+							</textarea>
+					<tr>
+						<td>
+					</tr>
+				</table>
+			</form>
+		</center>
+		<br>
+		<br>
+		<table align="center" border="0" width="10%" cellpadding="0" cellspacing="0"
+			<tr>
+				<td align="center"><A href="principal.html"><img src=PRINCIPAL.jpg width="140" height="140"></A>
+					<font color="white" size="5" face="arial">
+					Principal
+					</font></td>
+				<td align="center"><A href="historia.html"><img src=HISTORIA1.jpg width="140" height="140"></A>
+					<font color="white" size="5" face="arial">
+					Historia
+					</font></td>
+				<td align="center"><A href="productos.html"><img src=PRODUCTO.Accesodirecto.png width="140" height="140"></A>
+					<font color="white" size="5" face="arial">
+					Productos
+					</font></td>
+				<td align="center"><A href="contacto.html"><img src=CONTACTO.jpg width="140" height="140"></A>
+					<font color="white" size="5" face="arial">
+					Contacto
+					</font></td>
+			</tr>
+		</table>
+		<p align="center">
+			<font color="black" size="1" face="arial">
+			<b>
+			&copy; 2022. Derechos Reservados <br>
+			Desarrollado por: Sofia Ramos Armenta 
+			Matricula:01921656
+			Grupo:605 <br>
+		</font>
+	</body>
+</html>

@@ -1,0 +1,231 @@
+body{
+	background:#FD4040;
+}
+h1{
+	color:#000000;
+	font-family: Arial;
+	font-size: 50px;
+	text-align: center;
+}
+p{
+	color:#000000;
+	font-family: Arial;
+	font-size: 10px;
+	text-align: center;
+	font-weight:bold;
+	font-style:italic;
+}
+table{
+	color:#000000;
+	font-family: Arial;
+	font-size: 20px;
+	text-align:center;
+	font-weight:bold;
+	font-style:italic;
+	border:2;
+	
+	border-color:#FFFFFF;
+	border-style:solid;
+	border-left:auto;
+	border-right:auto;
+	border-collapse:collapse;
+}
+tr{
+	color:#000000;
+	font-family: Arial;
+	font-size:20px;
+	text-align:center;
+	border-color:#FF8933;
+	border-style:solid;
+}
+th{
+	color:#000000;
+	font-family: Arial;
+	font-size:20px;
+	text-align:center;
+	border-color:#FF8933;
+	border-style:solid;
+}
+td{
+	color:#000000;
+	font-family: Arial;
+	font-size:20px;
+	text-align:center;
+	border-color:#FF8933;
+	border-style:solid;
+}
+/*para quitar el borde y fondo a los iconos*/
+.sin{
+	border-style:transparent;
+	border:0;
+	border-color:transparent;
+}
+.tam{
+	width:150;
+	height:125;
+	
+}
+.tam4{
+	width:140;
+	height:140;
+	
+}
+.tam1{
+	width:400;
+	height:150;
+	position:relative;
+	right:600;
+}
+.tam2{
+	width:200;
+	height:200;
+}
+.tam3{
+	width:150;
+	height:100;
+}
+font{
+	color:#000000;
+	font-family: Arial;
+	font-size: 30px;
+	text-align: center;
+	font-weight:bold;
+	font-style:italic;
+}
+/*encabezados*/
+.div1{
+	background: linear-gradient(to botton, #CB2B04, #EB2E00);
+	border: 5px solid #EB2E00; 
+	border-radius:30px;
+	margin-top:0px;
+	margin-right:0px;
+	margin-bottom:10px;
+	margin-left:10px;
+	text-align:center;
+}
+/*lo marque de la principal*/
+.div2{
+	background:#C34D4D;
+	border: 5px solid #C34D4D;
+	text-align: center;
+}
+/*botones que te redirecciones a las paginas*/
+.div3{
+	background:#FC704E;
+	border:0px solid #FC704E;
+	text-align:center;
+}
+/*los creditos de la parte inferiror de la pagina*/
+.div4{
+	background:#F1A592;
+	border: 10px solid #F1A592;
+	text-align: center;
+}
+.div5{
+	background:#F7957E;
+	border: 0px solid #F7957E;
+	text-align: center;
+}
+/*para la tabla de productos*/
+.div6{
+	background: linear-gradient(to botton, #CB2B04, #EB2E00);
+	border: 5px solid #EB2E00; 
+	border-radius:30px;
+	margin-top:10px;
+	margin-right:0px;
+	margin-bottom:10px;
+	margin-left:10px;
+	text-align:center;
+	margin-left:auto;
+	margin-right: auto;
+}
+/*para la tabla de contacto*/
+.div7{
+	background:#FFC2B3;
+	border: 5px solid FFC2B3#;
+	text-align: center;
+}
+
+.div9{
+	background: #FA5858;
+	height: 180;
+	width: 450px;
+	display: inline-block;
+	transition: all 1s;
+	transition-timing-function: ease;
+}
+.div9:hover{
+	width: 900px
+}
+.div10{
+	background: #FA8258;
+	height: 180;
+	width: 450px;
+	display: inline-block;
+	transition: all 1s;
+	transition-timing-function: ease;
+}
+.div10:hover{
+	width: 900px
+}
+.div11{
+	background: #FAAC58;
+	height: 180;
+	width: 450px;
+	display: inline-block;
+	transition: all 1s;
+	transition-timing-function: ease;
+}
+.div11:hover{
+	width: 900px
+}
+.div12{
+	background: #F5DA81;
+	height: 180;
+	width: 450px;
+	display: inline-block;
+	transition: all 1s;
+	transition-timing-function: ease;
+}
+.div12:hover{
+	width: 900px
+}
+.contenedor{
+	display: flex;
+}
+.caja{
+	height:300px;
+	width: 250px;
+	background: #F5DA81;
+	border: 1px solid #FFOOOO;
+	margin: 5px;
+	color:black;
+	text-align:center;
+	font-family: "Lato", sans-serif;
+	display:inline-block;
+}
+.caja:hover{
+	/*Agregar sombra al div*/
+	/*		x y radio color*/
+	box-shadow: 0 0 10px red;
+	/*Cambia la escala del tamaño de la caja*/
+	transform: scale(1.3);
+}
+.caja-texto{
+	padding-bottom:5px;
+	padding-top:2px;
+	font-size:25;
+	color:black;
+	font-weight:bold;
+}
+.texto-adicional{
+	padding-top: 5px;
+	font-size: 25px;
+}
+@font-face{
+	font-family: "mi fuente";
+	src: url(Austein.otf);
+}
+#fuente-letra{
+	font-family: "mi fuente";
+}

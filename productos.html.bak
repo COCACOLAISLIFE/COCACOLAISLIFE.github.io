@@ -1,0 +1,92 @@
+<html>
+	<head>
+		<title>
+		    COCA-COLA PRODUCTOS
+		</title>
+		<link rel="shorcut icon" href="logo.png">
+		<link rel="stylesheet" href="estilo.css">
+
+	</head>
+	<body>
+		<img src=cocalogo.png class="tam1">
+		<h1>
+			Productos
+			</font>
+		</h1>
+		<hr>
+		
+		<br>
+		<br>
+		<center>
+			<table>
+				<tr>
+					<th width="25%">Producto</th>
+					<th width="40%">Imagen</th>
+					<th width="25%">Precio</th>
+				
+				</tr>
+				<tr>
+					<td>coca cola</td>
+					<td>
+						<img src="COCA-COLA.jpg" class="tam"></td>
+					<td>$30.00</td>
+				</tr>
+				<tr>
+			
+			
+					<td>pepsi</td>
+					<td>
+						<img src="PEPSI.jpg"  class="tam"></td>
+					<td>$33.00</td>
+				</tr>
+				<tr>
+			
+				
+					<td>fanta</td>
+					<td>
+						<img src="FANTA.jpg" class="tam"></td>
+					<td>$17.00</td>
+				</tr>
+				<tr>
+			
+		
+					<td>CIEL</td>
+					<td>
+						<img src="CIEL.jpg" class="tam"></td>
+					<td>$9.00</td>
+				</tr>
+			</table>
+		</center>
+		<br>
+		<br>
+		<table class="sin">
+				<tr class="sin">
+					<td class="sin"><A href="principal.html"><img src=PRINCIPAL.jpg width="140" height="140"></A>
+					<font>
+						Principal
+					</td></font>
+					<td class="sin"><A href="acerca.html"><img src=HISTORIA1.jpg width="140" height="140"></A>
+					<font>
+						Historia
+					</td></font>
+					<td class="sin"><A href="productos.html"><img src=PRODUCTOcoca.jpg width="140" height="140"></A>
+						<font>
+						Productos
+						</font></td>
+					<td class="sin"><A href="contacto.html"><img src=CONTACTO.jpg width="140" height="140"></A>
+						<font>
+						Contacto
+						</font></td>
+				</tr>
+			</table>
+					<br>
+		<p>
+			
+			&copy; 2022. Derechos Reservados <br>
+			Desarrollado por: Sofia Ramos Armenta 
+			Matricula:01921656
+			Grupo:605 <br>
+		</p>
+		
+	</body>
+</html>

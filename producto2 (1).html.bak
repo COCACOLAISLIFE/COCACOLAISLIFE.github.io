@@ -1,0 +1,85 @@
+<html>
+	<head>
+		<title>
+		
+		</title>
+		<link rel="shorcut icon" href="logo.png">
+	</head>
+	<body>
+	<body background="fondo.jpg">
+		<hr>
+		<br>
+		<br>
+		<table align="center" border="2" width="90%"
+		border color= "#FF333">
+			<tr text="black">
+				<th align="center" bgcolor="#FF8333">Producto</th>
+				<th align="center" bgcolor="#FF8333">Imagen</th>
+				<th align="center" bgcolor="#FF8333">Precio</th>
+				
+			</tr>
+			<tr>
+				<td align="center" bgcolor=="#FA2333">coca cola</td>
+				<td align="center" bgcolor=="#FA2333">
+					<img src="COCA-COLA.jpg" width="300" height="250"></td>
+				<td align="center" bgcolor="#FA2333">$30.00</td>
+			</tr>
+			<tr>
+			
+			
+				<td align="center" bgcolor=="#FA2333">pepsi</td>
+				<td align="center" bgcolor=="#FA2333">
+					<img src="PEPSI.jpg"  width="300" height="250"></td>
+				<td align="center" bgcolor="#FA2333">$33.00</td>
+			</tr>
+			<tr>
+			
+			
+				<td align="center" bgcolor=="#FA2333">fanta</td>
+				<td align="center" bgcolor=="#FA2333">
+					<img src="FANTA.jpg" width="300" height="250"></td>
+				<td align="center" bgcolor="#FA2333">$17.00</td>
+			</tr>
+			<tr>
+			
+		
+				<td align="center" bgcolor=="#FA2333">CIEL</td>
+				<td align="center" bgcolor=="#FA2333">
+					<img src="CIEL.jpg" width="300" height="250"></td>
+				<td align="center" bgcolor="#FA2333">$9.00</td>
+			</tr>
+		</table>
+	</center>
+	<table align="center" border="0" width="10%" cellpadding="0" cellspacing="0"
+			<tr>
+				<td align="center"><A href="principal.html"><img src=PRINCIPAL.jpg width="140" height="140"></A>
+					<font color="white" size="5" face="arial">
+					Principal
+					</font></td>
+				<td align="center"><A href="historia.html"><img src=HISTORIA1.jpg width="140" height="140"></A>
+					<font color="white" size="5" face="arial">
+					Historia
+					</font></td>
+				<td align="center"><A href="productos.html"><img src=PRODUCTOcoca.jpg width="140" height="140"></A>
+					<font color="white" size="5" face="arial">
+					Productos
+					</font></td>
+				<td align="center"><A href="contacto.html"><img src=CONTACTO.jpg width="140" height="140"></A>
+					<font color="white" size="5" face="arial">
+					Contacto
+					</font></td>
+			</tr>
+		</table>
+		<p align="center">
+			<font color="black" size="1" face="arial">
+			<b>
+			&copy; 2022. Derechos Reservados <br>
+			Desarrollado por: Sofia Ramos Armenta 
+			Matricula:01921656
+			Grupo:605 <br>
+		</font>
+</body>
+</html>
+				
+	</body>
+</html>

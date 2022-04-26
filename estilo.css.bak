@@ -1,0 +1,37 @@
+body{
+	background:#FD4040;
+}
+h1{
+	color:#FF5733;
+	font-family: Arial;
+	font-size: 50px;
+	text-align: center;
+}
+p{
+	color:#FF5733;
+	font-family: Arial;
+	font-size: 10px;
+	text-align: center;
+	font-weight:bold;
+	font-style:italic;
+}
+table{
+	border-style: solid;
+	border-color: red;
+	border: 2;
+	width: 90%;
+	height: 60%
+}
+tr{
+	border-style: solid;
+	border-color: red;
+	border: 2;
+	width: 90%;
+	height: 60%
+}
+tr{
+
+}
+td{
+
+}

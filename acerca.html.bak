@@ -1,0 +1,89 @@
+<html>
+	<head>
+		<title>Coca Cola-Historia</title>
+		<link rel="shorcut icon" href="coca.png">
+		<link rel="stylesheet" href="estilo.css">
+	</head>
+	<body>
+		<img src=cocalogo.png class="tam1">
+		
+		<h1>
+		
+        Siempre Coca-Cola
+			</font>
+		</h1>
+		<hr>
+		<br>
+		<center>
+		<font>
+		<li> Historia
+			
+		</li>
+		</center>
+	
+			En 1886, en una farmacia de nombre Jacobs, en Atlanta , Georgia, comenzó la historia de la bebida más famosa del mundo, gracias al famacéutico John S. Pemberton, quien trabajaba con la fórmula de un principio medicinal a base de jarabe (aún secreto) y agua natural conocido como “Vino Coca Pemberton”.
+		<br>
+		<br>
+		
+		
+		<br>
+		<center>
+		<li>
+			
+			Mision
+		</li>
+		</center>
+	
+			Satisfacer con excelencia a los consumidores de bebidas. Ser el mejor líder total de bebidas, que genere valor económico, social y ambiental sostenible, gestionando modelos de negocio innovadores y ganadores, con los mejores colaboradores en el mundo.
+		<br>
+		<br>
+		
+	
+		<br>
+		<center>
+		<li>
+			
+			Vision
+		</li>
+		</center>
+	
+			 Ser el mejor líder total de bebidas, que genere valor económico, social y ambiental sostenible, gestionando modelos de negocio innovadores y ganadores, con los mejores colaboradores en el mundo.
+		<br>
+		<br>
+		
+		
+			<table class="sin">
+				<tr class="sin">
+					<td class="sin"><A href="principal.html"><img src=PRINCIPAL.jpg width="140" height="140"></A>
+					<font>
+						Principal
+					</td></font>
+					<td class="sin"><A href="acerca.html"><img src=HISTORIA1.jpg width="140" height="140"></A>
+					<font>
+						Historia
+					</td></font>
+					<td class="sin"><A href="productos.html"><img src=PRODUCTOcoca.jpg width="140" height="140"></A>
+						<font>
+						Productos
+						</font></td>
+					<td class="sin"><A href="contacto.html"><img src=CONTACTO.jpg width="140" height="140"></A>
+						<font>
+						Contacto
+						</font></td>
+				</tr>
+			</table>
+			<br>
+			<p>
+			
+			<b>
+		&copy; 2022. Derechos Reservados<br>
+		Desarrollado por Ramos Armenta Sofia
+		Matricula:01921656   
+		Grupo:605 <br>
+		Plantel Nueva Tijuana
+		
+			
+		</p>	
+		</font>	
+	</body>
+</html>
